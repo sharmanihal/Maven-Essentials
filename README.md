@@ -27,11 +27,11 @@ Learn how Maven handles dependencies, including transitive dependencies and scop
 
 ## 4. Maven Concepts
 
-Explore the key Maven concepts like plugins, goals, phases, and lifecycle.
+Explore the key Maven concepts like local repo, enterprise arch etc.
 
 ## 5. Maven Lifecycle
 
-This section discusses the Maven build lifecycle, its phases, and how they work together to automate the build process.
+This section discusses the Maven build lifecycle, its phases, and plugins.
 
 ## 6. Multimodule Project
 
